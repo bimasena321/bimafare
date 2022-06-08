@@ -1,0 +1,97 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	display: flex;
+	padding: 40px 0;
+	background-color: blueviolet;
+	font-family: sans-serif;
+}
+#cl1ss {
+	color: gray;
+	font-size: 19px;
+	font-family: fantasy;
+	font-style: normal;
+}
+#cl2ss {
+	color: lightgreen;
+	font-family: cursive;
+	font-style: italic;
+}
+#cl3ss {
+	color: navy;
+	font-family: serif;
+	font-weight: bold;
+	font-stretch: semi-condensed;
+}
+#padding-hijau{
+	margin-left: auto;
+	margin: 10px 20px 30px;
+	margin-top: 20px;
+	display: block;
+	padding: 20px 0;
+	height: 30px;
+	background-color: green;
+
+}
+#padding-merah{
+	margin-left: auto;
+	margin: 10px 20px 30px;
+	margin-top: 20px;
+	display: block;
+	padding: 20px 0;
+	height: 30px;
+	background-color: red;
+
+}
+#padding-biru{
+	margin-left: auto;
+	margin: 10px 20px 30px;
+	margin-top: 20px;
+	display: block;
+	padding: 20px 0;
+	height: 30px;
+	background-color: blue;
+}
+#padding-hijau-border{
+	margin-left: auto;
+	margin: 10px 20px 30px;
+	margin-top: 20px;
+	display: block;
+	padding: 20px 0;
+	height: 30px;
+	border-radius: 20px;
+	background-color: green;
+
+}
+#padding-merah-border{
+	margin-left: auto;
+	margin: 10px 20px 30px;
+	margin-top: 20px;
+	display: block;
+	padding: 20px 0;
+	height: 30px;
+	background-color: red;
+	border-radius: 20px;
+
+}
+#padding-biru-border{
+	margin-left: auto;
+	margin: 10px 20px 30px;
+	margin-top: 20px;
+	display: block;
+	padding: 20px 0;
+	height: 30px;
+	background-color: blue;
+	border-radius: 20px;
+
+}
+#cl1ss-margin-left{
+	color: darkgray;
+	margin-left: 20px;
+	font-family: serif;
+	font-weight: bold;
+	font-stretch: semi-condensed;
+}
